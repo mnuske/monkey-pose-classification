@@ -1,0 +1,23 @@
+name: mpc
+channels:
+  - conda-forge
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8
+  - ipykernel
+  - matplotlib
+  - pip
+  - pytorch==1.7.0
+  - torchvision==0.8.0
+  - cudatoolkit=10.2
+  - pip:
+    - cython
+    - cython-bbox
+    - scipy
+    - numba
+    - progress
+    - matplotlib
+    - Pillow
+    - tensorboardX
