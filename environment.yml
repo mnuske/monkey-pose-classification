@@ -8,6 +8,7 @@ dependencies:
   - python=3.8
   - ipykernel
   - matplotlib
+  - pandas
   - pip
   - pytorch==1.7.0
   - torchvision==0.8.0
@@ -21,3 +22,5 @@ dependencies:
     - matplotlib
     - Pillow
     - tensorboardX
+    - sklearn
+    - opencv-python
