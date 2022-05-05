@@ -1,0 +1,5 @@
+# Ignoring all pycache files
+**/__pycache__/**
+
+# ignoring Tensorboard logs
+runs/**

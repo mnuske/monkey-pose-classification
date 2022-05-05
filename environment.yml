@@ -11,9 +11,13 @@ dependencies:
   - pandas
   - requests
   - pip
-  - pytorch==1.7.0
-  - torchvision==0.8.0
+  - pytorch=1.7.0
+  - torchvision=0.8.0
   - cudatoolkit=10.2
+  - tensorboard
+  - tqdm
+  - gcc=8.5
+  - gxx=8.5
   - pip:
     - cython
     - cython-bbox
