@@ -22,6 +22,9 @@ Per video 300 frames per pose where sampled and for each pose split into 1/2 tra
 
 ![](assets/mpc_dataset.png)
 
+## Training Results
+![](assets/train_results.png)
+
 ## Classification performance
 ![](assets/confusionMatrix_on_test.png)
 
